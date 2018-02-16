@@ -1,3 +1,7 @@
+# Comment regarding scaut usage
+
+This is a custom version of the plugin, with some rollbacks and alterations to make it play nicely with phonegap-plugin-push. If you edit this plugin or decide to use the original one again, you will likely break the app
+
 # cordova-plugin-firebase-analytics<br>[![NPM version][npm-version]][npm-url] [![NPM downloads][npm-downloads]][npm-url]
 > Cordova plugin for [Firebase Analytics](https://firebase.google.com/docs/analytics/)
 
